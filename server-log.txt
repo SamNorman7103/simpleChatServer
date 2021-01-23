@@ -1,0 +1,5 @@
+2021-0-23:1611427523790: New user ::ffff:127.0.0.1:49686 has connected
+2021-0-23:1611427523792: New user ::ffff:127.0.0.1:49687 has connected
+2021-0-23:1611427536364: ::ffff:127.0.0.1:49686 has left the chat
+2021-0-23:1611427536598: ::ffff:127.0.0.1:49687 has left the chat
+2021-0-23:1611427536680: New user ::ffff:127.0.0.1:49694 has connected
